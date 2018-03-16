@@ -1,0 +1,5 @@
+/Users/tmitani/heroku-ci/gs-testing-web/complete/src/test/java/hello/ApplicationTest.java
+/Users/tmitani/heroku-ci/gs-testing-web/complete/src/test/java/hello/WebMockTest.java
+/Users/tmitani/heroku-ci/gs-testing-web/complete/src/test/java/hello/SmokeTest.java
+/Users/tmitani/heroku-ci/gs-testing-web/complete/src/test/java/hello/HttpRequestTest.java
+/Users/tmitani/heroku-ci/gs-testing-web/complete/src/test/java/hello/WebLayerTest.java
